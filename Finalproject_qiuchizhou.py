@@ -46,7 +46,7 @@ def step3():
         print("You are in perfect shape to be a ninja!")
     else:
         print("You need to exercise more!");
-        input("Press 'Enter' key to go to step 2")
+        input("Press 'Enter' key to go to step 3")
 step3()
 
 
