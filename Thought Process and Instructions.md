@@ -1,4 +1,4 @@
-I have been a big fan of ninja and always wanted to be one in my secret life. Their mysterious lifestyle always makes me excited to know more about them. I developed this educational game to teach people all the major steps of becoming a ninja. As “gamification” which means the application of game playing to encourage engagement with a product or service becomes more and more popular, I think the text-based game will engage and entertain the audience who want to become ninja one day or in their secret lives.
+I have been a big fan of ninja and always wanted to be one in my secret life. Their mysterious lifestyle always makes me excited to know more about them. I developed this educational game to teach people all the major steps of becoming a ninja. As “gamification” which means the application of game playing to encourage engagement with a product or service becomes more and more popular, I think the text-based game will engage and entertain the audience who wants to become a ninja one day or in their secret lives.
 
 This is the website that I use to create the steps for the game - https://www.wikihow.com/Be-a-Ninja
 
